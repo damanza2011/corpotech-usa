@@ -1,0 +1,26 @@
+{
+  "name": "corptech-colombia",
+  "version": "1.0.0",
+  "description": "CORPTECH Colombia - Plataforma Web y Catálogo de Laptops Corporativas Off-Lease Reacondicionadas con Certificación Técnica",
+  "main": "index.html",
+  "scripts": {
+    "start": "node scripts/dev-server.js",
+    "dev": "node scripts/dev-server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "corptech",
+    "laptops-corporativas",
+    "reacondicionado-colombia",
+    "thinkpad",
+    "latitude",
+    "elitebook",
+    "itad",
+    "corpia"
+  ],
+  "author": "CORPTECH Colombia S.A.S.",
+  "license": "UNLICENSED",
+  "private": true
+}
